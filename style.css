@@ -1,0 +1,17 @@
+ 
+  .bg {
+    background-image: url(iphone.jpg);
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #po{
+    background-color:orange
+  }
+  .colo{
+    background-color:blueviolet;
+  }
+  .orange{
+    background-color:olivedrab
+  }
